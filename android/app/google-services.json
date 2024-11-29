@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341307600695",
+    "project_id": "liver-cancer-detection",
+    "storage_bucket": "liver-cancer-detection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341307600695:android:6b6b55c9f9801f5332b4b2",
+        "android_client_info": {
+          "package_name": "com.example.grad_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9SYf3hh9faMORMA7y-_cv_FgwEyzodPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
